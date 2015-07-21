@@ -51,6 +51,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reflection\AnyBuilder.cs" />
     <Compile Include="Reflection\PropertyHelper.cs" />
+    <Compile Include="Threading\TimerHelpers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="LICENSE" />
